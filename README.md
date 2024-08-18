@@ -40,7 +40,7 @@ Stateful Conversations: The chatbot maintains a conversation history, allowing i
 9. Access the Chatbot:
    Open your web browser and go to **'http: //127.0.0.1:5000/'** to interact with the chatbot.
 
-## DOcker Deployment (Optional)
+## Docker Deployment (Optional)
 To run the application in a Docker container:
 1. **Build the Docker Image:**
    
