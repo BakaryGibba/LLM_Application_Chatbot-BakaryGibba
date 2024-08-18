@@ -67,3 +67,11 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 This project is licensed under the MIT License
+
+## The Outcome of the System:
+
+
+
+
+https://github.com/user-attachments/assets/892403cc-03a0-4e37-bb3f-f7e98f0e4c1d
+
