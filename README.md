@@ -21,25 +21,36 @@ Stateful Conversations: The chatbot maintains a conversation history, allowing i
 
 ### Step-by-Step Installation
 1. Ckone the Repository:
+   
            git clone https://github.com/yourusername/simple-ai-chatbot.git
             cd simple-ai-chatbot
-2. Set Up a Virtual Environment (Optional but Recommended)
+   
+3. Set Up a Virtual Environment (Optional but Recommended)
+   
              python3 -m venv venv
           source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-3. Install Dependencies:
+   
+5. Install Dependencies:
+   
              pip install -r requirements.txt
-4. Run Flask Application:
+   
+7. Run Flask Application:
    python app.py
-5. Access the Chatbot:
+   
+9. Access the Chatbot:
    Open your web browser and go to **'http: //127.0.0.1:5000/'** to interact with the chatbot.
 
 ## DOcker Deployment (Optional)
 To run the application in a Docker container:
 1. **Build the Docker Image:**
+   
              docker built -t simple-ai-chatbot .
-2. **Run the Docker Container:**
+   
+3. **Run the Docker Container:**
+   
              docker run -p 5000:5000 simple-ai-chatbot
-3. **Access the chatbot:**
+   
+5. **Access the chatbot:**
     Open your web browser and go to **'http: //127.0.0.1:5000/'** to interact with the chatbot.
 
 ## Usage 
